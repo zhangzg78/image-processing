@@ -1,5 +1,3 @@
-**NOTICE: The due date for handing in Project 1 has been adjusted to 1 November.**
-
 # Image Processing Course Website
 
 This is a simple webpage for course Image Processing (COMP5033, 2024-2025 Fall Semester), School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen.
